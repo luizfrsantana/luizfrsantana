@@ -14,11 +14,12 @@ With over 10 years of experience as a Network Engineer, my career spans across c
 - 📜 Certified in Juniper (JNCIA) and Cisco (CCNA, CCNP)
 
 ### Skills
+![](https://img.shields.io/badge/Cisco%20CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Juniper%20DevOps-0078A4?style=for-the-badge&logo=junipernetworks&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-02569B?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=typescript&logoColor=blue)
 ![](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node-02569B?style=for-the-badge&logo=node.js&logoColor=green)
-![](https://img.shields.io/badge/CSharp-02569B?style=for-the-badge&logo=csharp&logoColor=purple)
 ![](https://img.shields.io/badge/Python-02569B?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![](https://img.shields.io/badge/Linux-02569B?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Network%20Engineering-02569B?style=for-the-badge&logo=cisco&logoColor=blue)
