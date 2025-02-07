@@ -12,6 +12,7 @@ With over 10 years of experience as a Network Engineer, my career spans across c
 - 👨‍💻 Skilled in Python, Flask, React, and advanced network troubleshooting
 - 🎓 Full-Stack Web Development student at Canadian College of Technology and Business
 - 📜 Certified in Juniper (JNCIA-Junos, JNCIA-DevOps) and Cisco (CCNA, CCNP)
+- ☁️ AWS Certified Cloud Practitioner
 
 ### Skills
 ![](https://img.shields.io/badge/Cisco%20CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -24,6 +25,7 @@ With over 10 years of experience as a Network Engineer, my career spans across c
 ![](https://img.shields.io/badge/Linux-02569B?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Network%20Engineering-02569B?style=for-the-badge&logo=cisco&logoColor=blue)
 ![](https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/AWS-02569B?style=for-the-badge&logo=aws&logoColor=white)
 
 ### Certifications
 - **JNCIA-Junos** - Juniper Networks Certified Associate, Junos
