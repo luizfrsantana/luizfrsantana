@@ -28,6 +28,7 @@ With over 10 years of experience as a Network Engineer, my career spans across c
 ![](https://img.shields.io/badge/AWS-02569B?style=for-the-badge&logo=aws&logoColor=white)
 
 ### Certifications
+- **AWS Cloud** - AWS Cloud Practitioner
 - **JNCIA-Junos** - Juniper Networks Certified Associate, Junos
 - **JNCIA-DevOps** - Juniper Networks Certified Associate, Automation and DevOps
 - **CCNA** - Cisco Certified Network Associate
