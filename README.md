@@ -1,7 +1,7 @@
 ### Hi! I'm Luiz Santana 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luizfrsantana)](https://github.com/luizfrsantana)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-rodrigues-de-santana-35a24526/)](https://www.linkedin.com/in/luiz-felipe-rodrigues-de-santana-35a24526/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-rodrigues-de-santana-35a24526/)](https://www.linkedin.com/in/luiz-felipe-de-santana-35a24526)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizfrsantana@gmail.com)](mailto:luizfrsantana@gmail.com)
 
 ![Luiz Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizfrsantana&show_icons=true&theme=blue-green)
